@@ -1,6 +1,6 @@
 # HugoLafargue_devops_lab2
 
-this is the readme file for the second lab of devops
+this is the readme file of the project
 
 ## Autors
 
